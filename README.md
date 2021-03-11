@@ -1,2 +1,3 @@
 # WordPress-zadanie-rekrutacyjne
-Dla rekruterów
+## Cel
+Zainstalować wordpressa wrzaz z wtyczką [Polylang](https://pl.wordpress.org/plugins/polylang/). Nastepnie utworzyć wtyczkę, która doda nową zakładkę a na niej wyświetli elementy do przetłumaczenia.
