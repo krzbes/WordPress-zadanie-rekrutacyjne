@@ -7,7 +7,9 @@ Aby uruchomić:
 ```
     docker-compose up -d
 ```
-
+Dane logowania:
+login: admin
+hasło: admin
 
 Aby zatrzymać:
 ```
